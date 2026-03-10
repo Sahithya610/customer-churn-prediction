@@ -42,4 +42,14 @@ Random Forest achieved the best performance:
 - Payment Method
 
 ## Model Saving
-The trained model is saved as:
+The trained model is saved as: models/churn_model.pk1
+
+This allows the model to be reused for predictions without retraining.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
